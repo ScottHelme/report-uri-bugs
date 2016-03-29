@@ -1,2 +1,3 @@
-# report-uri-bugs
-Bug tracker for https://report-uri.io
+# Bug Tracker
+
+Please raise bugs [here](https://github.com/ScottHelme/report-uri-bugs/issues).
